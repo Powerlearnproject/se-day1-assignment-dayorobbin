@@ -5,10 +5,17 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Software Engineering is all about Writing instructions (called code) for computers. Building apps, games, and websites that make our lives easier. It is very important in the technologhy world because it helps in Solving real-world problems through technology.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+1. The Birth of Software Engineering (1968)
+The term "software engineering" was first coined during the NATO Software Engineering Conference held in Garmisch, Germany. This event highlighted the growing complexity of software projects and the need for systematic approaches to software development.
 
+2. The Introduction of Structured Programming (1970s)
+The 1970s saw the rise of structured programming, which emphasized the use of control structures (like loops and conditionals) rather than arbitrary jumps (using GOTO statements)
+
+3.The Agile Movement (2001)
+The publication of the Agile Manifesto in 2001 marked a significant shift in software development methodologies. The Agile approach prioritized individuals and interactions, working software, customer collaboration, and responding to change over rigid processes and documentation
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
